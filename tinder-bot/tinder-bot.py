@@ -45,4 +45,4 @@ def bot():
                 bot.find_element_by_xpath('//*[@id="modal-manager"]/div/div/div[3]/button[2]').click()
             except:
                 print ('fatt gya')
-login()
+bot()
